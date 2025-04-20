@@ -113,7 +113,7 @@ Asegura que se estén confirmando los asientos reservados
 
 
 Selección y Validación de Asientos: (3 puntos de depuración)
--Breakpoint 3: Linea 69
+- Breakpoint 3: Linea 69
 Revisa que los asientos seleccionados correspondan a entradas válidas.
 
 - Breakpoint 4: Linea 356
